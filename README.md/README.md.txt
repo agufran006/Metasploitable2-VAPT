@@ -5,9 +5,7 @@ The goal was to simulate a real-world **Vulnerability Assessment and Penetration
 
 ---
 
-## 🔹 Project Roadmap
-
-![Project Roadmap](assets/roadmap_infographic.png)
+## 🔹 Project Roadmap! [Roadmap Infographic](assets/roadmap_infographic.png)  
 
 ---
 
@@ -51,10 +49,11 @@ Delivered a professional consultancy-style report (PDF)
 
 🔹 Deliverables
 
-📄 **[Report (PDF)](Metasploitable2-VAPT/Report)**
+📄 [Full Report (PDF)](report/Metasploitable2_Pentest_Report_Final.pdf)
 
-🖼️ Roadmap infographic in /assets
-📸 Proof screenshots in /screenshots
+🖼️ [Roadmap Infographic](assets/roadmap_infographic.png)
+
+📸 [Proof Screenshots](screenshots)
 
 🔹 Tools Used
 
@@ -78,3 +77,4 @@ Medium: Missing HTTP security headers
 
 👤 Gufran Ahmed
 🌐 [LinkedIn](https://www.linkedin.com/in/gufran-uh/)
+
