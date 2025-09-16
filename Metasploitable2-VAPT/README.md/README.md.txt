@@ -78,4 +78,5 @@ Medium: Missing HTTP security headers
 
 🔹 Author
 👤 Gufran Ahmed
-🔗 LinkedIn
+
+🔗 LinkedIn- https://www.linkedin.com/in/gufran-uh/ 
