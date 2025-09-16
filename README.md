@@ -50,7 +50,7 @@ whoami
 
 ## 🔹 Deliverables
 
-📄 [Full Report (PDF)](Metasploitable2_Pentest_Report_Final.pdf)  
+📄 [Full Report (PDF)](report/Metasploitable2_Pentest_Report_Final.pdf)  
 🖼️ [Roadmap Infographic](assets/roadmap_infographic.png)  
 📸 [Proof Screenshots](screenshots)  
 
