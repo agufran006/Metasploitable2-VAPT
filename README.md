@@ -1,4 +1,4 @@
-🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)
+## 🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)
 
 This project demonstrates a **full penetration testing workflow** on Metasploitable 2, a deliberately vulnerable VM.  
 The goal was to simulate a real-world **Vulnerability Assessment and Penetration Test (VAPT)** and produce a consultancy-style report.
